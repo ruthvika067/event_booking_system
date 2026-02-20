@@ -13,20 +13,20 @@ Guest count input,
 Date & time booking,
 Optional photographer service,
 Automatic cost calculation,
-Saves data to bookings.txt,
+Saves data to bookings.txt
 
 🛠️ Technologies
 
 Java,
 Swing (GUI),
 AWT Event Handling,
-File Handling (Java IO),
+File Handling (Java IO)
 
 ▶️ How to Run
 
 Open project in Eclipse/IDE,
 Run EventBookingSystem.java,
-Enter details and click Book Event,
+Enter details and click Book Event
 
 👩‍💻 Author
 
