@@ -1,10 +1,12 @@
 📅 Event Booking System
 
 📌 Description
+
 Event Booking System is a Java Swing desktop application that allows users to book events by entering details like name, event type, number of guests, date, time, and optional photographer service.
 The system calculates the estimated cost and saves booking data into a file.
 
 ✨ Features
+
 Simple GUI using Java Swing
 Event type selection
 Guest count input
@@ -14,17 +16,20 @@ Automatic cost calculation
 Saves data to bookings.txt
 
 🛠️ Technologies
+
 Java
 Swing (GUI)
 AWT Event Handling
 File Handling (Java IO)
 
 ▶️ How to Run
+
 Open project in Eclipse/IDE
 Run EventBookingSystem.java
 Enter details and click Book Event
 
 👩‍💻 Author
+
 Ruthvika Malgari
 
 Output
