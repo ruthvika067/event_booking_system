@@ -7,26 +7,26 @@ The system calculates the estimated cost and saves booking data into a file.
 
 ✨ Features
 
-Simple GUI using Java Swing
-Event type selection
-Guest count input
-Date & time booking
-Optional photographer service
-Automatic cost calculation
-Saves data to bookings.txt
+Simple GUI using Java Swing,
+Event type selection,
+Guest count input,
+Date & time booking,
+Optional photographer service,
+Automatic cost calculation,
+Saves data to bookings.txt,
 
 🛠️ Technologies
 
-Java
-Swing (GUI)
-AWT Event Handling
-File Handling (Java IO)
+Java,
+Swing (GUI),
+AWT Event Handling,
+File Handling (Java IO),
 
 ▶️ How to Run
 
-Open project in Eclipse/IDE
-Run EventBookingSystem.java
-Enter details and click Book Event
+Open project in Eclipse/IDE,
+Run EventBookingSystem.java,
+Enter details and click Book Event,
 
 👩‍💻 Author
 
